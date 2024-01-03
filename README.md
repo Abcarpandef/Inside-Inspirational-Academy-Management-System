@@ -1,2 +1,10 @@
 # Inside-Inspiration-Academy-Management-System
-This is a Java based desktop application project where I used core java, AWT, Swing, JDBC and MySql for the database connection. This project is implemented to keep the record of each and every student of an institute.
+This is a Java-based desktop application project for the Inside Inspiration Academy management system. Here we used Java, AWT, Swing, and MySQL to complete the project.
+
+Basic Requirements:
+
+We used an ojdbc6 executable jar file and mysql-connector-java-8.0.30 initially to execute our project as we used MySQL here.
+
+Note:
+
+You have to first download a JDK on your device to execute all of these.
