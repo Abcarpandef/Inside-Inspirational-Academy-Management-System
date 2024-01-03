@@ -3,7 +3,7 @@ This is a Java-based desktop application project for the Inside Inspiration Acad
 
 Basic Requirements:
 
-We used an ojdbc6 executable jar file and mysql-connector-java-8.0.30 initially to execute our project as we used MySQL here.
+We used an ojdbc6 executable jar file and mysql-connector-java-8.0.30 initially to execute our project.
 
 Note:
 
